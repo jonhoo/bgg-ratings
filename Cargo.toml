@@ -1,0 +1,10 @@
+[package]
+name = "bgg-ratings"
+version = "0.1.0"
+authors = ["Jon Gjengset <jon@thesquareplanet.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9"
+serde_json = "1.0"
+csv = "1.0"

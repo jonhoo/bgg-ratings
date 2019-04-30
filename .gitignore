@@ -1,0 +1,7 @@
+*.log
+*.csv
+*.png
+Rplots.pdf
+/Cargo.lock
+/target
+**/*.rs.bk
